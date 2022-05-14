@@ -1,0 +1,95 @@
+h1{
+	font-size: 50;
+	text-align : center;
+}
+
+h2{
+	text-align: center;
+	
+}
+
+body{
+	/*background-image : url(https://1.bp.blogspot.com/-kqilolP-690/WNNPzyZtuJI/AAAAAAAAEJA/f2MnFhLIxikut-s-c9mX8UMo1NUNWnDTACEw/s640/Fond%2Bd%2527%25C3%25A9cran%2Bgris%2Bclair%2B16.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 1000em; */
+}
+
+.chartibouli
+{
+	width: 800;
+	height: 528;
+	float: center;
+	border-style: solid;
+}
+
+#coursebo
+{
+	width: 900;
+	height: 600;
+	border-style: solid;
+	margin-left: 250px;
+} /* image coureuse */
+
+.topcoco {
+   
+    
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', sans-serif;
+    font-size: 1.0em;
+    padding: 20px 29px;
+	overflow: hidden;
+    margin-top: 10px;
+	margin-left: 30px;
+	background-color: rgb(38, 175, 230)
+}
+
+
+/* menu */
+
+select {
+    font-size: .9rem;
+    padding: 2px 5px;
+}
+
+
+label {
+    font-size: 1.2rem;
+    padding-right: 10px;
+}
+
+.lili{
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+.inscri{
+	 font-size: 1.2rem;
+}
+
+/* nouveau licencier */
+
+hr{
+	height: 3px;
+	width: 10px;
+	border: 10px;
+}
+
+.footi{
+
+	margin-top: 1em;
+	text-align: center;
+	padding-left: 100px;
+	background-color: rgb(70, 159, 211);
+}
+/* footer */
+
+.happyboys{
+	
+	width: 800px;
+	height: 528px;
+	float: center;
+	border-style: solid;
+	margin-left: 250px;
+	padding: 28px;
+}
